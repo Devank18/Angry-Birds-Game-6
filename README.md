@@ -12,4 +12,5 @@ Designer: Jaakko Iisalo
 
 Publishers: Rovio Entertainment, Electronic Arts, Innovative Concepts in Entertainment, Chillingo 
 
-Engines: Simple DirectMedia Layer, Box2D Platforms: Android, iOS, Arcade game, Windows Phone, Classic Mac OS, Series 40
+Engines: Simple DirectMedia Layer, Box2D
+Platforms: Android, iOS, Arcade game, Windows Phone, Classic Mac OS, Series 40
